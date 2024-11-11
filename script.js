@@ -1,10 +1,9 @@
 const skills = [
     'Student',
     'Front-end Developer',
-    'Flutter Enthusiast',
     'Open Source Contributor',
     'Coder',
-    'Devloper',
+    'Java Devloper',
     'AI Enthusiast',
 ];
 
