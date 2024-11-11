@@ -1,1 +1,1 @@
-# mudit-portfolio
+# aryan-portfolio
